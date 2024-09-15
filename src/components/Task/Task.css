@@ -1,0 +1,28 @@
+.myItems li{
+    list-style-type: none ;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 15px;
+    background-color: #fff4e0;
+  
+  }
+
+  .myItems button{
+    padding-inline: 15px;
+    padding-block: 5px;
+    border-radius: 8px;
+  }
+  
+  .myItems .edite{
+    background-color: cadetblue;
+  }
+  
+  .myItems .delete{
+    background-color: crimson;
+  }
+  
